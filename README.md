@@ -1,9 +1,9 @@
 ## Portfolio_Improvements
 
-> This is a HTML based Portfolio Website Repository, open for contribution in design and code .
-> Even a small contribution would be appreciated. 
-> Both code and non code PRs can be pulled.
-> Open for Hacktoberfest contributions for the year 2022. 
+>- This is a HTML based Portfolio Website Repository, open for contribution in design and code .
+>- Even a small contribution would be appreciated. 
+>- Both code and non code PRs can be pulled.
+>- Open for Hacktoberfest contributions for the year 2022. 
  
 **This repository will not be taking any pull requests after 31st October 22**
 
